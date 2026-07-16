@@ -1,0 +1,6 @@
+{
+  "name": "Book Dashboard & RAG Chatbot",
+  "description": "A comprehensive dashboard for book sales and rankings data, coupled with a Gemini-powered RAG chatbot for personalized book recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
